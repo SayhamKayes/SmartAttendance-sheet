@@ -1,8 +1,41 @@
+# Node / Vite
 node_modules/
-build/
 dist/
+dist-ssr/
+build/
 coverage/
-.DS_Store
-*.log
-.env*
+*.local
+
+# Vercel
+.vercel
+
+# Environment variables
+.env
+.env.*
 !.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3
+Backend/ClassAttendance_env/
+ClassAttendance_env/
+venv/
+.venv/
+env/
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
