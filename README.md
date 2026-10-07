@@ -596,6 +596,6 @@ DATABASE_URL=sqlite:///db.sqlite3
 
 ---
 
-## 📄 License
+## 📄 Developed By
 
-This project is licensed under the [Apache-2.0 License](LICENSE).
+This project is developed by [Sayham Kayes](https://github.com/SayhamKayes). 
