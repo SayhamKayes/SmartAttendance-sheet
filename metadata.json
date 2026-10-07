@@ -1,0 +1,6 @@
+{
+  "name": "SmartAttendance Portal - Student Attendance & Sheet Sync",
+  "description": "Comprehensive student attendance management system with teacher assignment, manual & Excel student import, date-wise attendance marking, and real-time Excel / Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
